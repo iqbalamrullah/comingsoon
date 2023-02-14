@@ -74,7 +74,7 @@
     <script type="text/javascript">
         var audio = document.createElement("AUDIO")
         document.body.appendChild(audio);
-        audio.src = "music/dynamite.mp3";
+        audio.src = "music/sempurna.mp3";
         audio.loop = true;
         document.body.addEventListener("mousemove", function() {
             audio.play();            
